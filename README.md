@@ -1,1 +1,3 @@
 # Portfolio-Generator
+
+This project uses node.js to create a portfolio website for developers. This application runs by asking the developer questions about their projects and uses their github links to create an interactive webpage to display their work. Using javascript, bootstrap, node.js, html and a css style page the website incorporates a professional touch to help a developer display their portfolio.
